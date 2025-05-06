@@ -3,21 +3,7 @@ Title
 
 Description
 ==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
-
-
-Credits
-=======
+Introduce  _get_filtered_sellers della 17 sulla 14
 
 Authors
 ~~~~~~~
@@ -27,4 +13,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>

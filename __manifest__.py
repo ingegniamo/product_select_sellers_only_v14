@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Product select sellers only v14",
     
     'summary': "",
   
@@ -10,12 +10,12 @@
 
     'category': '',
   
-    'version': '18.0.0.1',
+    'version': '14.0.0.1',
   
-    'website'METTERE LINK GITHUB completo: "https://github.com/ingegniamo",
+    'website': "https://hgithub.com/ingegniamo/product_select_sellers_only_v14",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['product'],
     
     # always loaded
     'data': [],
