@@ -1,6 +1,6 @@
 from odoo import models, fields, api,_
 import logging
-
+from odoo.tools import float_compare
 
 class ProductProduct(models.Model):
     _inherit = 'product.product'
